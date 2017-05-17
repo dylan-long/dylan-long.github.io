@@ -1,0 +1,36 @@
+body {
+	background-color:#000;
+	
+}
+
+h1 {
+	font-family:;
+	color: #fff;
+}
+
+p {
+	color:#fff;
+	
+}
+
+.row {
+	background-color:#00bd62;
+	
+}
+
+.navbar{
+	color:red;
+	  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+}
+
+.jumbotron {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+}
+
+.jumbotron:hover {
+	cursor: default;
+}
+
+	
